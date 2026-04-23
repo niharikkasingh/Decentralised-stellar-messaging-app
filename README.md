@@ -101,9 +101,13 @@ soroban contract invoke \
 
 ---
 ## License
-This project is licensed under the MIT License.
----
-## Contact
-For queries or collaboration, please reach out.
 
-Built on Stellar using Soroban
+This project is licensed under the MIT License.
+
+## Contact
+
+For questions, suggestions, or collaboration opportunities, please reach out to our development team.
+
+---
+
+**Built with on Stellar using Soroban**
