@@ -1,7 +1,19 @@
-# Decentralized Messaging - Encrypted Peer-to-Peer Communication on Stellar Blockchain
-## 🔗 Overview
-Decentralized Messaging is a blockchain-based encrypted peer-to-peer messaging application built on the Stellar network using Soroban smart contracts. The system enables users to send and receive encrypted messages in a trustless environment without relying on centralized servers.
-All messages are stored on-chain with end-to-end encryption, ensuring privacy, security, and immutability.
+# Decentralized Messaging
+
+## Project Title
+
+**Decentralized Messaging - Encrypted Peer-to-Peer Communication on Stellar Blockchain**
+
+## Project Description
+
+Decentralized Messaging is a blockchain-based encrypted peer-to-peer messaging application built on the Stellar network using Soroban smart contracts. The platform enables users to send and receive encrypted messages in a trustless, decentralized environment without relying on centralized servers or intermediaries. All messages are stored on-chain with end-to-end encryption, ensuring privacy, security, and immutability.
+
+This smart contract provides the fundamental infrastructure for secure messaging, allowing users to:
+
+- Send encrypted messages to any Stellar address
+- Retrieve their messages securely with authentication
+- Mark messages as read
+- Maintain complete control over their communication data
 ---
 ## 🏗️ Architecture
 ### Technology Stack
