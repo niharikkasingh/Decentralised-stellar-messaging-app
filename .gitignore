@@ -1,0 +1,18 @@
+# Rust build outputs
+target/
+*.wasm
+
+# Local Soroban + Stellar CLI files
+.soroban/
+.stellar/
+
+# OS-specific
+.DS_Store
+
+# Log files
+*.log
+
+# Ignore frontend build output
+frontend/node_modules/
+frontend/dist/
+frontend/.env
